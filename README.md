@@ -19,7 +19,7 @@ A Streamlit-based AI chatbot that generates interview questions from uploaded re
 
 
 📦 Installation
-git clone https://github.com/yourusername/chatbot_ai.git
+git clone https://github.com/yourusername/Resume_question_generator.git
 cd chatbot_ai
 >>>Install the other libraries required
 
